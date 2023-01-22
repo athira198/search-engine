@@ -1,0 +1,17 @@
+for image always use object-fit property so it will resixe accordingly
+use cover or contain
+overflow-y:scroll-to avoid the content outside the container
+The CSS overflow property controls what happens to content that is too big to fit into an area.
+we can give directions accordingly ie x or y direction
+
+-webkit-scrollbar{
+    display:none; to hide scrollbar
+
+the user releases a key
+
+
+arrow function
+it will rduce the code
+if there is only one line then avoid curly braces
+syntax
+=()=>
